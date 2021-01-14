@@ -5,7 +5,7 @@ A weekly or biweekly survey meant to collect the amount of homework assigned by 
 
 Clone this repository using this command
 ```
-clone https://github.com/ChoateProgrammingUnion/choate-homework-survey
+git clone https://github.com/ChoateProgrammingUnion/choate-homework-survey
 ```
 Install the required dependecies using this command
 ```
